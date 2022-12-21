@@ -1,16 +1,15 @@
-# store_app
+# Store_app
 
-A new Flutter project.
+App fitchs data from fake API and let you make updates on these data
+ -Fake API
+ -http 
+ -GET
+ -UPDATE
+ -Dribbble UI
+ 
+![Android Emulator - Pixel_4_API_31_5554 12_21_2022 1_14_40 PM](https://user-images.githubusercontent.com/72998532/208892919-a4aac861-f930-421c-a634-6ec2728d46db.png)
 
-## Getting Started
+![Android Emulator - Pixel_4_API_31_5554 12_21_2022 1_14_32 PM](https://user-images.githubusercontent.com/72998532/208892908-92f1e6c9-634d-436a-ad20-b7952bf7e5ff.png)
 
-This project is a starting point for a Flutter application.
+![Android Emulator - Pixel_4_API_31_5554 12_21_2022 1_14_54 PM](https://user-images.githubusercontent.com/72998532/208892923-b92e315f-b6a7-4e41-83fe-806f008bb5a8.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
